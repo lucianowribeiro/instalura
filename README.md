@@ -6,4 +6,6 @@ Project done during the Alura'Bootcamp JamStack
 
 HTML | CSS | Js | React | NextJS | StyledComponents | Styled-normalize | Lodash | Prop-types
 
+![](./instalura.png)
+
 Hope to enjoy :smile:
